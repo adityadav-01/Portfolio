@@ -34,8 +34,9 @@ Hi, I'm **Aditya Kumar Yadav**, a passionate BCA student at **Lovely Professiona
 ## 🖼️ Portfolio Screenshot
 
 <a href="https://portfolio-l9rj.vercel.app/" target="_blank">
-  <img src="Portfolio/Portfolio Preview.png" width="800" alt="Portfolio Preview"/>
+  <img src="Portfolio_Preview.png" width="800" alt="Portfolio Preview"/>
 </a>
+
 
 ---
 
