@@ -1,61 +1,80 @@
-# 👨‍💻 Aditya's Portfolio Website
+<h1 align="center">
+  <a href="https://portfolio-l9rj.vercel.app/" target="_blank" title="Click to view my portfolio">
+    🚀 Aditya Kumar Yadav's Portfolio Website
+  </a>
+</h1>
 
-🚀 Welcome to my personal portfolio website, built using HTML, CSS, JavaScript, and ScrollReveal.js!  
-This project is designed to showcase my **skills, projects, resume**, and provide **direct contact** options.
-
----
-
-## 📌 Live Demo
-
-🌐 [Click to Visit My Portfolio](https://adityadav-01.github.io/Portfolio/)
-
----
-
-## 🛠️ Tech Stack
-
-- HTML5  
-- CSS3 / SCSS  
-- JavaScript (Vanilla)  
-- ScrollReveal.js  
-- Git & GitHub Pages
+<p align="center">
+  A modern, responsive, and professional portfolio website built using HTML, CSS, and JavaScript to showcase my skills, certifications, and projects.
+</p>
 
 ---
 
-## 📂 Folder Structure
+## 📌 About Me
+
+Hi, I'm **Aditya Kumar Yadav**, a passionate BCA student at **Lovely Professional University** with a keen interest in **Web Development**, **Data Analysis**, and **Software Engineering**. This is my personal portfolio website where I showcase my work, skills, and achievements.
+
+---
+
+## ⚙️ Tech Stack Used
+
+- 💻 HTML5  
+- 🎨 CSS3  
+- 🧠 JavaScript (vanilla)  
+- 🌐 Git & GitHub  
+
+---
+
+## 🌍 Live Preview
+
+👉 [Click Here to View My Portfolio](https://portfolio-l9rj.vercel.app/)
+
+---
+
+## 🖼️ Portfolio Screenshot
+
+<a href="https://portfolio-l9rj.vercel.app/" target="_blank">
+  <img src="Portfolio/Portfolio Preview.png" width="800" alt="Portfolio Preview"/>
+</a>
+
+---
+
+## 🏆 Certificates
+
+### ✔️ Crash Course on Python – Google  
+🔗 [View Certificate](https://www.coursera.org/account/accomplishments/verify/BWN4GL5PUY9R)  
+📄 [Download PDF](assets/certificate/Crash%20Course%20on%20Python.pdf)
+
+
+## 📁 Project Structure
+
 ```
 Portfolio/
-│
-├── index.html
-├── adi CV.pdf
-├── README.md
 ├── assets/
-│ ├── css/
-│ ├── img/
-│ └── js/
-├── scss/
+│ ├── certificate/
+│ │ ├── Crash Course on Python.jpg
+│ │ └── Crash Course on Python.pdf
+│ ├── certificates/
+│ │ └── tableau_certificate.pdf
+│ └── img/
+│ └── certificate2.jpg
+├── index.html
+├── style.css
+├── script.js
+└── README.md
 ```
 
 
 ---
 
-## ✨ Features
+## 📬 Connect with Me
 
-- Fully responsive layout  
-- Smooth scroll animations  
-- Projects section with links  
-- Resume download option  
-- Contact form for messages  
-- Deployed with GitHub Pages
+- 📧 Email: adityadav757@gmail.com  
+- 🔗 GitHub: [github.com/adityadav-01](https://github.com/adityadav-01)  
+- 💼 LinkedIn: [linkedin.com/in/adityadav-01](https://www.linkedin.com/in/adityadav-01)
 
 ---
 
-## 📬 Contact Me
+## ⭐ Feedback
 
-📧 adityadav757@gmail.com  
-📍 India  
-🌐 [GitHub](https://github.com/adityadav-01)
-
----
-
-⭐ If you like this project, feel free to `star` this repository.  
-📣 Feedback and contributions are always welcome!
+If you like this project, feel free to give it a ⭐ on GitHub. Your support motivates me to build more!
